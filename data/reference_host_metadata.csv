@@ -1,0 +1,66 @@
+accession,source_host,source_organism,isolate,isolation_source,geo_loc_name,collection_date,metadata_source,reported_host_override
+QGY72640.1,Plasmopara viticola,Plasmopara viticola lesion associated mycobunyavirales-like virus 3,DMG-A_DN35670,,Italy,2018,NCBI GenBank source feature
+UYL95517.1,Dermacentor silvarum,Heihe tick virus 1,TIGMIC 1,field -- flagging at various sites,China: Heilongjiang,2019,NCBI GenBank source feature
+WNO14964.1,Culex quinquefasciatus,Snownnecut virus,F1422,individual female mosquito body,Cambodia:Kampong Thom,15-Oct-2019,NCBI GenBank source feature
+XNX43324.1,grapevine,Grapevine wood holobiome associated bunya-like virus 2,c25,,Argentina,Nov-2017,NCBI GenBank source feature,Vitis vinifera
+ALD89133.1,Rhizoctonia solani,Rhizoctonia solani negative-stranded virus 4,Rs1018b,,USA,01-Jun-2013,NCBI GenBank source feature
+YP_010085115.1,Fusarium graminearum,Fusarium graminearum dsRNA mycovirus 2,98-8-60,,South Korea,1998,NCBI GenBank source feature
+WPA94612.2,Fusarium proliferatum,Fusarium proliferatum chrysovirus 1,,,China,2021,NCBI GenBank source feature
+YP_009158913.1,Fusarium oxysporum f. sp. dianthi,Fusarium oxysporum f. sp. dianthi mycovirus 1,Fod116,,Spain,2008,NCBI GenBank source feature
+UVZ34689.1,Botryosphaeria dothidea,Botryosphaeria dothidea chrysovirus 1-like,,,China,2010,NCBI GenBank source feature
+QKO02074.2,Macrophomina phaseolina,Macrophomina phaseolina chrysovirus 2,2012-022,,China,,NCBI GenBank source feature
+BBC45614.1,Aspergillus fumigatus IFM 41362,Alphachrysovirus aspergilli,,,Japan,,NCBI GenBank source feature
+YP_010088049.1,Coniella diplodiella,Coniothyrium diplodiella chrysovirus 1,CREA-VE-6SY1,grapevine wood tissues,Italy,2017,NCBI GenBank source feature
+WRW25202.1,Bipolaris maydis,Bipolaris maydis chrysovirus 2,HN081,corn plant,"China: Wuhan, Hubei",12-Sep-2020,NCBI GenBank source feature
+YP_010088028.1,Aspergillus thermomutatus,Betachrysovirus aspergilli,NZCV1,Left ear,New Zealand,10-Jul-2012,NCBI GenBank source feature
+QKV50734.1,Alternaria tenuissima,Alternaria alternata chrysovirus 1,,host strain SD-BZF-12,China,2015,NCBI GenBank source feature
+KAE8348079.1,,Aspergillus coremiiformis,,,,,NCBI GenBank source feature
+YP_009051683.1,Phomopsis longicolla,Phomopsis longicolla hypovirus,ME711,,USA,,NCBI GenBank source feature
+YP_005476604.1,Valsa ceratosperma,Valsa ceratosperma hypovirus 1,,,"Japan:Iwate, Morioka",Apr-2010,NCBI GenBank source feature
+NP_051710.1,,Cryphonectria hypovirus 3,CHV3-GH2 (WY),,,,NCBI GenBank source feature
+QJT73707.1,Botrytis cinerea,Botrytis cinerea hypovirus 3,BCI1_3,,Italy,2018,NCBI GenBank source feature
+YCG58091.1,Trichothecium roseum,Trichothecium roseum hypovirus 1,DN1812c0,,Italy,2021,NCBI GenBank source feature
+YP_010800030.1,Fusarium oxysporum f. sp. dianthi strain 408,Fusarium oxysporum dianthi hypovirus 2,,,Morocco,2012,NCBI GenBank source feature
+QHD64829.1,Erysiphe necator,Erysiphe necator associated hypovirus 1,PMS-18_Contig9,,Italy,2018,NCBI GenBank source feature
+QUE49155.1,Sclerotinia sclerotiorum,Sclerotinia sclerotiorum hypovirus 7,2017SS,,China,07-May-2017,NCBI GenBank source feature
+BBB86794.1,Rosellinia necatrix,Rosellinia necatrix hypovirus 2,,the host fungus Rosellinia necatrix isolate Rn430 of this virus was isolated from Avocado tree,"Spain:Andalusia, Malaga,Velez-Malaga",2016-02-09,NCBI GenBank source feature
+YP_010799557.1,Clarireedia homoeocarpa isolate LT11,Sclerotinia homoeocarpa hypovirus 1,,,USA,2017,NCBI GenBank source feature
+YP_010799244.1,Fusarium poae MAFF 240374,Fusarium poae hypovirus 1,,,Japan,,NCBI GenBank source feature
+UCR95333.1,Sclerotinia sclerotiorum,Sclerotinia sclerotiorum hypovirus 9,GB375-1,,China,2018,NCBI GenBank source feature
+XHY85259.1,Rhipicephalus sanguineus,Hebei hypo-like virus 1,Hebei_121,,China: Hebei,2023,NCBI GenBank source feature
+UVB73562.1,Cercospora beticola,Beticola hypovirus 1,,,China,05-Sep-2020,NCBI GenBank source feature
+XXP61147.1,Diaphorina citri,Diaphorina citri associated hypovirus,DcHV1,,Samoa,2022,NCBI GenBank source feature
+BCY26969.1,Nigrospora oryzae,Nigrospora oryzae hypovirus 1,,,Thailand,2019-03-15,NCBI GenBank source feature
+XNT19719.1,grapevine,Grapevine wood holobiome associated hypovirus,c22,,Argentina,Nov-2017,NCBI GenBank source feature,Vitis vinifera
+UCR92524.1,Apis mellifera,Apis hypovirus 2,No20-Am036-JL2018,,China: Jilin,2018,NCBI GenBank source feature
+WWZ24880.1,Fusarium sacchari strain FSA1,Fusarium sacchari hypovirus 1,FSA1,Sugarcane diseased leaves,"China: Fusui, Guangxi",06-May-2019,NCBI GenBank source feature
+YP_010800340.1,Botrytis cinerea,Botrytis cinerea hypovirus 4,BCS17_DN134,,Spain,2018,NCBI GenBank source feature
+QED42922.1,Monilinia fructigena,Monilinia hypovirus A,Won,,Italy,18-May-2018,NCBI GenBank source feature
+QVL22790.1,Rhizoctonia solani AG-1 IA,Rhizoctonia solani megabasidiovirus 1,XY74,,China,Aug-2016,NCBI GenBank source feature
+UBZ25880.1,Fusarium mangiferae,Fusarium mangiferae mitovirus 1,FmMV1/SP1,fungi,Pakistan,,NCBI GenBank source feature
+QIR30267.1,Plasmopara viticola,Plasmopara viticola lesion associated mitovirus 44,DMG-B_DN44854,,Italy,2018,NCBI GenBank source feature
+UNG44314.1,Fusarium asiaticum,Fusarium asiaticum mitovirus 3,,FHB-infected wheat spikes,China: Yangtze Valley Plain,May-2016,NCBI GenBank source feature
+XCX09761.1,Fusarium pseudograminearum,Fusarium pseudograminearum mitovirus 13,,,China,2019/2021,NCBI GenBank source feature
+WLK77420.1,Suillus luteus,Suillus luteus mitovirus 3,SlMV3,,China,Mar-2021,NCBI GenBank source feature
+BDF97663.1,Rhizopus microsporus,Rhizopus microsporus mitovirus 1,2020-AMS-01,host culture supernatant,Netherlands,2020,NCBI GenBank source feature
+QKI79961.1,Erysiphe necator,Erysiphe necator associated mitovirus 13,PMS10_42,,Spain,2018,NCBI GenBank source feature
+XSG20585.1,Gnomoniopsis sanguisorbae,Gnomoniopsis Sanguisorbae Mitovirus L,,Sanguisorba officinalis,China,2023,NCBI GenBank source feature
+UTQ48829.1,Monilinia fructicola,Monilinia fructicola mitovirus 12,,,Italy,2021,NCBI GenBank source feature
+QHD64821.1,Erysiphe necator,Erysiphe necator associated mitovirus 10,PMS-18_DN49546,,Italy,2018,NCBI GenBank source feature
+XCX09745.1,Fusarium pseudograminearum,Fusarium pseudograminearum mitovirus 10,,,China,2019/2021,NCBI GenBank source feature
+QHJ68502.1,Botrytis cinerea,Botrytis cinerea mitovirus 6,BCI1_DN10328,,Italy,2018,NCBI GenBank source feature
+QIP68024.1,Bremia lactucae,Bremia lactucae associated mitovirus 1,DML-A_DN28798,,Italy,2018,NCBI GenBank source feature
+XYL11408.1,Fusarium commune,Fusarium commune mononegavirus 1,JF46,diseased tobacco stems,China: Yongzhou,01-Jun-2023,NCBI GenBank source feature
+YP_010802816.1,Erysiphe necator,Erysiphe necator associated negative-stranded RNA virus 23,PMS3_29,,Spain,2018,NCBI GenBank source feature
+YP_010798440.1,Plasmopara viticola,Plasmopara viticola lesion associated mononegaambi virus 8,DMS1_DN25671,,Spain,2018,NCBI GenBank source feature
+WPR17640.1,plant,Yellow silver pine associated mymonavirus 3,LEPINT,,New Zealand: Pukenui/Anchor Island,Feb-2021/Mar-2021,NCBI GenBank source feature,Yellow silver pine
+YDH73243.1,Haemaphysalis longicornis,Mymonaviridae sp.,SD-T-7_75298,,China,2023,NCBI GenBank source feature
+YP_010798443.1,Plasmopara viticola,Plasmopara viticola lesion associated mononega virus 2,DMG-A_DN34502,,Italy,2018,NCBI GenBank source feature
+XCO56033.1,Fusarium culmorum,Fusarium mononegavirus 1,AU12,wheat head,Denmark: Aarhus University Flakkebjerg,2022,NCBI GenBank source feature
+UNG44335.1,Fusarium asiaticum,Fusarium graminearum negative-stranded RNA virus 1,,FHB-infected wheat spikes,China: Yangtze Valley Plain,May-2016,NCBI GenBank source feature
+YP_010800697.1,Cryphonectria parasitica,Cryphonectria parasitica sclerotimonavirus 1,,,Azerbaijan,Feb-2019,NCBI GenBank source feature
+YP_009094317.1,Sclerotinia sclerotiorum,Sclerotinia sclerotiorum negative-stranded RNA virus 1,,,China,01-May-2010,NCBI GenBank source feature
+WCA33786.1,Alternaria tenuissima,Alternaria tenuissima negative-stranded RNA virus 2,HB-15,,China,2017-07,NCBI GenBank source feature
+UYZ32462.1,Alternaria dianthicola,Alternaria dianthicola negative-stranded RNA virus 1,,,China,,NCBI GenBank source feature
+YP_010800326.1,Botrytis cinerea,Botrytis cinerea negative-stranded RNA virus 3,BCS11_19,,Spain,2018,NCBI GenBank source feature
+YP_010805443.1,Fusarium asiaticum,Fusarium asiaticum negative-stranded RNA virus 1,,FHB-infected wheat spikes,China: Yangtze Valley Plain,May-2016,NCBI GenBank source feature

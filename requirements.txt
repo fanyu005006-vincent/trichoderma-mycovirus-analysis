@@ -1,0 +1,5 @@
+# Core host-network analysis uses only the Python standard library.
+# AF3 structural support additionally uses these packages.
+numpy>=1.26,<3
+biopython>=1.80,<2
+tmtools>=0.3,<0.4

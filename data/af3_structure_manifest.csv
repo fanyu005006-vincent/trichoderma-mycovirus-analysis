@@ -1,0 +1,12 @@
+role,profile,candidate_labels,accession,family,source_virus,structure_file,model_index,af3_ranking_score,af3_ptm,source_note
+candidate,BV1,TsBLV1,,bunya-like lineage,,candidate_BV1_model_2.cif,2,0.88,0.83,Best of five AF3 models by ranking_score
+candidate,CV1,TsCV1,,Chrysoviridae,,candidate_CV1_model_3.cif,3,0.91,0.88,Best of five AF3 models by ranking_score
+candidate,CV2,TsCV2,,Chrysoviridae,,candidate_CV1_model_3.cif,3,0.91,0.88,Copied from CV1 because the RdRp sequence is identical
+candidate,HV1,TsHV1,,Hypoviridae,,candidate_HV1_model_4.cif,4,0.85,0.80,Best of five AF3 models by ranking_score
+candidate,HV2,TsHV2,,Hypoviridae,,candidate_HV2_model_0.cif,0,0.75,0.70,Longer AF3 RdRp-region model selected over the 141-aa fragment
+candidate,MIV1,TsMiV1,,Mitoviridae,,candidate_MIV1_model_0.cif,0,0.90,0.87,Best of five AF3 models by ranking_score
+candidate,MIV7,TsMiV7,,Mitoviridae,,candidate_MIV7_model_3.cif,3,0.93,0.91,Best of five AF3 models by ranking_score
+candidate,MYV2,TsMyV2,,Mymonaviridae,,candidate_MYV2_model_4.cif,4,0.94,0.91,Best of five AF3 models by ranking_score
+candidate,MYV3,TsMyV3,,Mymonaviridae,,candidate_MYV3_model_1.cif,1,0.95,0.93,Best of five AF3 models by ranking_score
+reference,,,YP_009158913.1,Chrysoviridae,Fusarium oxysporum f. sp. dianthi mycovirus 1,reference_YP_009158913.1_model_0.cif,0,0.89,0.86,Reference structure maps to an accepted network accession
+reference,,,WCA33786.1,Mymonaviridae,Alternaria tenuissima negative-stranded RNA virus 2,reference_WCA33786.1_model_0.cif,0,0.94,0.92,Reference structure maps to an accepted network accession
